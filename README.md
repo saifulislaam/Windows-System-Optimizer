@@ -124,7 +124,7 @@ Someone who fixes Windows computers for a living. Got tired of seeing "cleaner" 
 
 ## Download
 
-[Download SystemOptimizer.bat](https://github.com/saifulislaam/Windows-System-Optimizer/releases/latest)
+[Download SystemOptimizer.bat](https://github.com/saifulislaam/Windows-System-Optimizer)
 
 ---
 
